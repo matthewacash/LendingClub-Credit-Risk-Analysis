@@ -1,4 +1,4 @@
-# Lending Club Portfolio Risk and Profitability Analysis
+# Lending Club Portfolio Risk and Profitability Analysis (work in progress)
 
 ![Dashboard Preview](LendingClub_Dashboard.png)
 

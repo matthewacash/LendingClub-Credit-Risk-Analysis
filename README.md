@@ -1,6 +1,6 @@
 # Lending Club Portfolio Risk and Profitability Analysis (work in progress)
 
-![Dashboard Preview](LendingClub_Dashboard.png)
+![Dashboard Preview](LendingClub_Dashboard)
 
 ### Executive Summary
 This project identifies the true yield of the Lending Club 2.9M record loan portfolio. I isolated "finished" loan cycles and found that nearly all credit grades (excluding Grade A) resulted in a net loss. 
